@@ -6,7 +6,7 @@ Expense Manager is simple, stable and feature-rich web app that is designed for 
 
 ## Features
 
-* Open Source
+
 * Powered by Django, Bootstrap
 * Filtering by name, price
 * Sorting by Date, Image Availability
@@ -53,7 +53,3 @@ Expense Manager is simple, stable and feature-rich web app that is designed for 
  ```
 8. create group <strong>expense_manger</strong>
 9.  add permissions for expense_manger app
-
-
-## Suggestions
-Open to any suggestions and help provided.
